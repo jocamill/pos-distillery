@@ -1,0 +1,5 @@
+*.json
+dl2020.txt
+.vscode
+settings.json
+__pycache__
